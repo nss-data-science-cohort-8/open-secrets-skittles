@@ -1,0 +1,2 @@
+seperate data gathering notebook 
+then have a data anazlysis notebook 
